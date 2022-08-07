@@ -1,0 +1,8 @@
+/.vscode
+/GenericElement.o
+/Hexahedron.o
+/lagrangeFunctions.o
+/libfem.so
+/main.o
+/spectralFunctions.o
+/test
